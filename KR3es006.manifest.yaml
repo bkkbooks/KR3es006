@@ -1,0 +1,2003 @@
+canonical_identifier: bkk:krp/KR3es006/v1
+canonical_location: https://kanripo.org/bkk/KR3es006/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 皇國名醫傳
+  identifiers:
+    krp: KR3es006
+  tags:
+    kr-categories: KR3es
+  source:
+    repository: tls-texts
+    path: data/tls/KR3es006.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3es006_000.yaml, hash: 'sha256:89ff5381cb4b5c54839cd43c1ad43ea08e18d1b13e5b96053d3ef74462372840'}
+  - {seq: 1, filename: KR3es006_001.yaml, hash: 'sha256:ecf4375181003e46c0f0d661696f45602d99895c57ef17b286ef3ddb52693415'}
+  - {seq: 2, filename: KR3es006_002.yaml, hash: 'sha256:0e29101ecc4bc5f4014144660d7d4258bafb6860a722927f97df811f67ccc5b2'}
+  - {seq: 3, filename: KR3es006_003.yaml, hash: 'sha256:48b64a608c518bbf627e76cc1e11aa6ae510072a1743ea4a327a27841b3b59e0'}
+  - {seq: 0, filename: KR3es006_000.yaml, hash: 'sha256:89ff5381cb4b5c54839cd43c1ad43ea08e18d1b13e5b96053d3ef74462372840'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3es006_000.markers.yaml, hash: 'sha256:34e2f35d96baa70a847cad053a7bcd13e1b5251d42b396035b285e1a570d8afd'}
+  - {seq: 1, role: markers, filename: assets/KR3es006_001.markers.yaml, hash: 'sha256:afa93f7cf89f3f75a15accf9931961bd8e789548f293379355c38cc4d4a08c6b'}
+  - {seq: 2, role: markers, filename: assets/KR3es006_002.markers.yaml, hash: 'sha256:4b622257e900bb37164eab66073b8c81dcb6227ad656367535fb2d8d930357df'}
+  - {seq: 3, role: markers, filename: assets/KR3es006_003.markers.yaml, hash: 'sha256:5c64527976888c85a952a13c27bd0b5f18e7ca07b17a42c077f92502838d0f7e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3es006_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 1069
+  label: 前編序一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3es006_jc_000-d3.h1s1
+    span:
+    - front
+    - 1069
+    - 1593
+  label: 前編序二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3es006_jc_000-d4.h1s1
+    span:
+    - front
+    - 1593
+    - 1941
+  label: 前編序三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3es006_jc_000-d5.h1s1
+    span:
+    - front
+    - 1941
+    - 2589
+  label: 前編序例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6.h1s1
+    span:
+    - body
+    - 0
+    - 6580
+  label: 前編卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d4
+    span:
+    - body
+    - 168
+    - 330
+  label: 和藥使主
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d5
+    span:
+    - body
+    - 330
+    - 564
+  label: 藥師惠日難波連奈良
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d6
+    span:
+    - body
+    - 564
+    - 843
+  label: 奈良藥師
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d7
+    span:
+    - body
+    - 843
+    - 895
+  label: 後部藥使主
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d8
+    span:
+    - body
+    - 895
+    - 1058
+  label: 蜂田藥師深根輔仁
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d9
+    span:
+    - body
+    - 1058
+    - 1098
+  label: 倭漢直福因
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d10
+    span:
+    - body
+    - 1098
+    - 1147
+  label: 桑原訶都續紀訶作加訶加聲通
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d11
+    span:
+    - body
+    - 1147
+    - 1188
+  label: 益田直金鐘
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d12
+    span:
+    - body
+    - 1188
+    - 1223
+  label: 物部韓國廣足
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d13
+    span:
+    - body
+    - 1223
+    - 1317
+  label: 御立連吳明
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d14
+    span:
+    - body
+    - 1317
+    - 1395
+  label: 秦忌寸朝元
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d15
+    span:
+    - body
+    - 1395
+    - 1474
+  label: 大羊甲許母懷風藻作許率母續紀作胛巨茂皆同
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d16
+    span:
+    - body
+    - 1474
+    - 1619
+  label: 答本陽春狖賦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d17
+    span:
+    - body
+    - 1619
+    - 1644
+  label: 張福子
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d18
+    span:
+    - body
+    - 1644
+    - 1659
+  label: 高義通
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d19
+    span:
+    - body
+    - 1659
+    - 1676
+  label: 余仁軍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d20
+    span:
+    - body
+    - 1676
+    - 1690
+  label: 蓋高麻呂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d21
+    span:
+    - body
+    - 1690
+    - 1706
+  label: 甘味神寶
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d22
+    span:
+    - body
+    - 1706
+    - 1733
+  label: 倭武助
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d23
+    span:
+    - body
+    - 1733
+    - 1761
+  label: 馬史夷麻呂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d24
+    span:
+    - body
+    - 1761
+    - 1800
+  label: 忌部宿禰烏麻呂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d25
+    span:
+    - body
+    - 1800
+    - 1908
+  label: 粟田朝臣道麻呂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d26
+    span:
+    - body
+    - 1908
+    - 1937
+  label: 淨岡連廣島
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d27
+    span:
+    - body
+    - 1937
+    - 1967
+  label: 掃守王
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d28
+    span:
+    - body
+    - 1967
+    - 1989
+  label: 田部宿禰男足
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d29
+    span:
+    - body
+    - 1989
+    - 2014
+  label: 文室真人水通
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d30
+    span:
+    - body
+    - 2014
+    - 2040
+  label: 木使主望足
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d31
+    span:
+    - body
+    - 2040
+    - 2200
+  label: 羽慄翼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d32
+    span:
+    - body
+    - 2200
+    - 2270
+  label: 雀部直兄子
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d33
+    span:
+    - body
+    - 2270
+    - 2320
+  label: 冰上真人河繼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d34
+    span:
+    - body
+    - 2320
+    - 2349
+  label: 布勢朝臣大海
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d35
+    span:
+    - body
+    - 2349
+    - 2380
+  label: 平群朝臣清麻呂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d36
+    span:
+    - body
+    - 2380
+    - 2431
+  label: 朝野宿禰魚養
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d37
+    span:
+    - body
+    - 2431
+    - 2459
+  label: 小倉王
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d38
+    span:
+    - body
+    - 2459
+    - 2489
+  label: 中臣朝臣道成
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d39
+    span:
+    - body
+    - 2489
+    - 2529
+  label: 吉水連神德
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d40
+    span:
+    - body
+    - 2529
+    - 2563
+  label: 若江家繼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d41
+    span:
+    - body
+    - 2563
+    - 2600
+  label: 息長丹生真人文繼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d42
+    span:
+    - body
+    - 2600
+    - 2637
+  label: 小野朝臣諸野
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d43
+    span:
+    - body
+    - 2637
+    - 2662
+  label: 蘰連家繼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d44
+    span:
+    - body
+    - 2662
+    - 2688
+  label: 大伴宿禰乎知人
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d45
+    span:
+    - body
+    - 2688
+    - 2702
+  label: 益野王
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d46
+    span:
+    - body
+    - 2702
+    - 2728
+  label: 朝原宿禰岡野
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d47
+    span:
+    - body
+    - 2728
+    - 2845
+  label: 物部首廣泉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d48
+    span:
+    - body
+    - 2845
+    - 2868
+  label: 蕨野勝真吉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d49
+    span:
+    - body
+    - 2868
+    - 3026
+  label: 大神朝臣虎主
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d50
+    span:
+    - body
+    - 3026
+    - 3079
+  label: 當麻真人鴨繼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d51
+    span:
+    - body
+    - 3079
+    - 3135
+  label: 清岑朝臣門繼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d52
+    span:
+    - body
+    - 3135
+    - 3236
+  label: 海直淡路
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d53
+    span:
+    - body
+    - 3236
+    - 3376
+  label: 竹田千繼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d54
+    span:
+    - body
+    - 3376
+    - 3400
+  label: 海部男種麻呂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d55
+    span:
+    - body
+    - 3400
+    - 3429
+  label: 家原善宗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d56
+    span:
+    - body
+    - 3429
+    - 3479
+  label: 興道宿禰名繼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d57
+    span:
+    - body
+    - 3479
+    - 3545
+  label: 下毛野殿永御安
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d58
+    span:
+    - body
+    - 3545
+    - 3615
+  label: 島田朝臣忠臣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d59
+    span:
+    - body
+    - 3615
+    - 3652
+  label: 民首方宗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d60
+    span:
+    - body
+    - 3652
+    - 3685
+  label: 和邇部臣宅貞
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d61
+    span:
+    - body
+    - 3685
+    - 3733
+  label: 其日連公冬雄一作甚目
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d62
+    span:
+    - body
+    - 3733
+    - 3774
+  label: 狛人野宮成貞信記作狛野
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d63
+    span:
+    - body
+    - 3774
+    - 3801
+  label: 藏史貞野
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d64
+    span:
+    - body
+    - 3801
+    - 3825
+  label: 五百木部全成
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d65
+    span:
+    - body
+    - 3825
+    - 3841
+  label: 下道門繼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d66
+    span:
+    - body
+    - 3841
+    - 3861
+  label: 大伴村主家人
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d67
+    span:
+    - body
+    - 3861
+    - 3888
+  label: 葛城宿禰高宗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d68
+    span:
+    - body
+    - 3888
+    - 3916
+  label: 常澄宗吉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d69
+    span:
+    - body
+    - 3916
+    - 3936
+  label: 阿比古氏雄
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d70
+    span:
+    - body
+    - 3936
+    - 3967
+  label: 阿保朝臣常世
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d71
+    span:
+    - body
+    - 3967
+    - 3987
+  label: 孔生部富世
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d72
+    span:
+    - body
+    - 3987
+    - 4003
+  label: 秦公廣範
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d73
+    span:
+    - body
+    - 4003
+    - 4099
+  label: 時原朝臣興宗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d74
+    span:
+    - body
+    - 4099
+    - 4161
+  label: 宮勝宿禰忠來一作宮或云本姓勝
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d75
+    span:
+    - body
+    - 4161
+    - 4208
+  label: 伴宿禰有道
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d76
+    span:
+    - body
+    - 4208
+    - 4223
+  label: 淡海常那
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d77
+    span:
+    - body
+    - 4223
+    - 4241
+  label: 櫻井宿禰季富
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d78
+    span:
+    - body
+    - 4241
+    - 4263
+  label: 三島貞祥
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d79
+    span:
+    - body
+    - 4263
+    - 4331
+  label: 河內博遠
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d80
+    span:
+    - body
+    - 4331
+    - 4346
+  label: 穴太豐理
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d81
+    span:
+    - body
+    - 4346
+    - 4382
+  label: 行田朝臣文信
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d82
+    span:
+    - body
+    - 4382
+    - 4413
+  label: 大中臣致忠
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d83
+    span:
+    - body
+    - 4413
+    - 4436
+  label: 長谷部宿禰永盛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d84
+    span:
+    - body
+    - 4436
+    - 4484
+  label: 足羽忠俊
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d85
+    span:
+    - body
+    - 4484
+    - 4508
+  label: 宗盛員
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d86
+    span:
+    - body
+    - 4508
+    - 4524
+  label: 長宿禰義信
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d87
+    span:
+    - body
+    - 4524
+    - 4543
+  label: 神奴連貞述
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d88
+    span:
+    - body
+    - 4543
+    - 4557
+  label: 調吉近
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d89
+    span:
+    - body
+    - 4557
+    - 4583
+  label: 大春日遠晴長德
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d90
+    span:
+    - body
+    - 4583
+    - 4605
+  label: 土師宿禰正忠
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d91
+    span:
+    - body
+    - 4605
+    - 4623
+  label: 刑部武並
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d92
+    span:
+    - body
+    - 4623
+    - 4640
+  label: 大江安賴
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d93
+    span:
+    - body
+    - 4640
+    - 4656
+  label: 珍縣主石松
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d94
+    span:
+    - body
+    - 4656
+    - 4673
+  label: 大和諸行
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d95
+    span:
+    - body
+    - 4673
+    - 4705
+  label: 藤井宿禰為重
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d96
+    span:
+    - body
+    - 4705
+    - 4725
+  label: 三條左近將監
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d97
+    span:
+    - body
+    - 4725
+    - 4780
+  label: 菅野朝臣棟友
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d98
+    span:
+    - body
+    - 4780
+    - 5536
+  label: 藤原氏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d99
+    span:
+    - body
+    - 5536
+    - 5712
+  label: 源氏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d100
+    span:
+    - body
+    - 5712
+    - 5807
+  label: 金武
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d101
+    span:
+    - body
+    - 5807
+    - 5870
+  label: 王有稜陀
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d102
+    span:
+    - body
+    - 5870
+    - 5935
+  label: 僧勸勤
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d103
+    span:
+    - body
+    - 5935
+    - 5948
+  label: 毛治
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d104
+    span:
+    - body
+    - 5948
+    - 6023
+  label: 缽日比子
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d105
+    span:
+    - body
+    - 6023
+    - 6064
+  label: 僧法藏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d106
+    span:
+    - body
+    - 6064
+    - 6252
+  label: 僧鑑真
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d107
+    span:
+    - body
+    - 6252
+    - 6331
+  label: 僧長秀
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d108
+    span:
+    - body
+    - 6331
+    - 6386
+  label: 小手尼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d109
+    span:
+    - body
+    - 6386
+    - 6428
+  label: 僧惠清
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d110
+    span:
+    - body
+    - 6428
+    - 6443
+  label: 王鞬南
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d111
+    span:
+    - body
+    - 6443
+    - 6521
+  label: 陳宗敬
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3es006_jc_001-d6d112
+    span:
+    - body
+    - 6521
+    - 6580
+  label: 許儀明
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3es006_jc_002-d7.h1s1
+    span:
+    - body
+    - 0
+    - 11588
+  label: 前編卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3es006_jc_002-d7d2
+    span:
+    - body
+    - 4
+    - 3810
+  label: 和氣氏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3es006_jc_002-d7d3
+    span:
+    - body
+    - 3810
+    - 8067
+  label: 丹波氏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3es006_jc_002-d7d4
+    span:
+    - body
+    - 8067
+    - 9160
+  label: 惟宗氏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3es006_jc_002-d7d5
+    span:
+    - body
+    - 9160
+    - 9583
+  label: 清原氏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3es006_jc_002-d7d6
+    span:
+    - body
+    - 9583
+    - 10073
+  label: 中原氏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3es006_jc_002-d7d7
+    span:
+    - body
+    - 10073
+    - 10148
+  label: 小槻氏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3es006_jc_002-d7d8
+    span:
+    - body
+    - 10148
+    - 10748
+  label: 菅原氏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3es006_jc_002-d7d9
+    span:
+    - body
+    - 10748
+    - 10950
+  label: 安倍氏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3es006_jc_002-d7d10
+    span:
+    - body
+    - 10950
+    - 11588
+  label: 紀氏
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8.h1s1
+    span:
+    - body
+    - 0
+    - 5984
+  label: 前編卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d6
+    span:
+    - body
+    - 159
+    - 225
+  label: 法蓮
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d7
+    span:
+    - body
+    - 225
+    - 293
+  label: 法榮
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d8
+    span:
+    - body
+    - 293
+    - 344
+  label: 入道侍從
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d9
+    span:
+    - body
+    - 344
+    - 371
+  label: 石屋
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d10
+    span:
+    - body
+    - 371
+    - 420
+  label: 理滿
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d11
+    span:
+    - body
+    - 420
+    - 447
+  label: 佛嚴
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d12
+    span:
+    - body
+    - 447
+    - 476
+  label: 賢禪
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d13
+    span:
+    - body
+    - 476
+    - 551
+  label: 大善
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d14
+    span:
+    - body
+    - 551
+    - 642
+  label: 重源
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d15
+    span:
+    - body
+    - 642
+    - 664
+  label: 蓮基
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d16
+    span:
+    - body
+    - 664
+    - 708
+  label: 智玄
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d17
+    span:
+    - body
+    - 708
+    - 736
+  label: 心寂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d18
+    span:
+    - body
+    - 736
+    - 761
+  label: 如來尼
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d19
+    span:
+    - body
+    - 761
+    - 777
+  label: 要上
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d20
+    span:
+    - body
+    - 777
+    - 824
+  label: 葉上
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d21
+    span:
+    - body
+    - 824
+    - 839
+  label: 行蓮
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d22
+    span:
+    - body
+    - 839
+    - 855
+  label: 金蓮
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d23
+    span:
+    - body
+    - 855
+    - 871
+  label: 興心
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d24
+    span:
+    - body
+    - 871
+    - 892
+  label: 空體
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d25
+    span:
+    - body
+    - 892
+    - 1013
+  label: 性全
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d26
+    span:
+    - body
+    - 1013
+    - 1035
+  label: 生西
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d27
+    span:
+    - body
+    - 1035
+    - 1064
+  label: 小松
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d28
+    span:
+    - body
+    - 1064
+    - 1092
+  label: 有鄰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d29
+    span:
+    - body
+    - 1092
+    - 1158
+  label: 壽阿彌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d30
+    span:
+    - body
+    - 1158
+    - 1249
+  label: 允能
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d31
+    span:
+    - body
+    - 1249
+    - 1310
+  label: 良心
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d32
+    span:
+    - body
+    - 1310
+    - 1326
+  label: 久阿彌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d33
+    span:
+    - body
+    - 1326
+    - 1348
+  label: 瑞筠
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d34
+    span:
+    - body
+    - 1348
+    - 1364
+  label: 一立
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d35
+    span:
+    - body
+    - 1364
+    - 1378
+  label: 景贊
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d36
+    span:
+    - body
+    - 1378
+    - 1392
+  label: 澄一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d37
+    span:
+    - body
+    - 1392
+    - 1406
+  label: 源貞
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d38
+    span:
+    - body
+    - 1406
+    - 1453
+  label: 不孤
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d39
+    span:
+    - body
+    - 1453
+    - 1474
+  label: 祐公
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d40
+    span:
+    - body
+    - 1474
+    - 1531
+  label: 高定
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d41
+    span:
+    - body
+    - 1531
+    - 1551
+  label: 雪岑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d42
+    span:
+    - body
+    - 1551
+    - 1741
+  label: 三喜月湖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d43
+    span:
+    - body
+    - 1741
+    - 2147
+  label: 阪上池院
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d44
+    span:
+    - body
+    - 2147
+    - 2573
+  label: 阪盛方院
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d45
+    span:
+    - body
+    - 2573
+    - 2997
+  label: 吉田氏
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d46
+    span:
+    - body
+    - 2997
+    - 3437
+  label: 竹田氏
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d47
+    span:
+    - body
+    - 3437
+    - 3670
+  label: 久志本氏
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d48
+    span:
+    - body
+    - 3670
+    - 4011
+  label: 安藝氏
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d49
+    span:
+    - body
+    - 4011
+    - 4199
+  label: 板阪氏
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d50
+    span:
+    - body
+    - 4199
+    - 4466
+  label: 祐乘坊
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d51
+    span:
+    - body
+    - 4466
+    - 4572
+  label: 藤原永全
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d52
+    span:
+    - body
+    - 4572
+    - 4590
+  label: 中臣成宗
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d53
+    span:
+    - body
+    - 4590
+    - 4658
+  label: 成田小三郎
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d54
+    span:
+    - body
+    - 4658
+    - 4686
+  label: 八阪崇譽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d55
+    span:
+    - body
+    - 4686
+    - 4723
+  label: 松井正濟福富氏
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d56
+    span:
+    - body
+    - 4723
+    - 4850
+  label: 高橋英全
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d57
+    span:
+    - body
+    - 4850
+    - 4884
+  label: 山科景紹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d58
+    span:
+    - body
+    - 4884
+    - 4966
+  label: 南條宗鑑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d59
+    span:
+    - body
+    - 4966
+    - 5072
+  label: 田村長元
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d60
+    span:
+    - body
+    - 5072
+    - 5125
+  label: 金持重弘
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d61
+    span:
+    - body
+    - 5125
+    - 5157
+  label: 片岡晴親
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d62
+    span:
+    - body
+    - 5157
+    - 5300
+  label: 曾谷慶祐子壽仙
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d63
+    span:
+    - body
+    - 5300
+    - 5476
+  label: 奈須家之
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d64
+    span:
+    - body
+    - 5476
+    - 5522
+  label: 阿佐井宗瑞
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d65
+    span:
+    - body
+    - 5522
+    - 5547
+  label: 佐佐木善住
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d66
+    span:
+    - body
+    - 5547
+    - 5596
+  label: 土岐宗璉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d67
+    span:
+    - body
+    - 5596
+    - 5686
+  label: 河野治傳
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d68
+    span:
+    - body
+    - 5686
+    - 5758
+  label: 岡家重
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d69
+    span:
+    - body
+    - 5758
+    - 5827
+  label: 津輕以三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d70
+    span:
+    - body
+    - 5827
+    - 5915
+  label: 笠原重次
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d71
+    span:
+    - body
+    - 5915
+    - 5932
+  label: 三折全友
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es006_jc_003-d8d72
+    span:
+    - body
+    - 5932
+    - 5984
+  label: 近藤桂安
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3es006_jc_000-d9.h1s1
+    span:
+    - front
+    - 0
+    - 406
+  label: 杏林雜話序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3es006_jc_000-d10.h1s1
+    span:
+    - front
+    - 406
+    - 676
+  label: 杏林雜話序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3es006_jc_000-d11.h1s1
+    span:
+    - body
+    - 0
+    - 10607
+  label: 杏林雜話
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3es006_jc_000-d12.h1s1
+    span:
+    - body
+    - 10607
+    - 10787
+  label: 跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3es006_jc_000-d13.h1s1
+    span:
+    - body
+    - 10787
+    - 11554
+  label: 淺田宗伯小傳
+  type: section
+  level: 1
+hash: sha256:501e0cf1ac3c0aaccfdfc8bfd70fbffbda37a7a1c194106139c2bff42c1f9c95
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
