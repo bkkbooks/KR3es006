@@ -22,10 +22,10 @@ assets:
   - {seq: 3, filename: KR3es006_003.yaml, hash: 'sha256:66990644f01cf0e52db01793724eb97e2be79646c7ec3bbaf33c9aca6a617b90'}
   - {seq: 0, filename: KR3es006_000.yaml, hash: 'sha256:817dd873b0e10fae20553cbe2186e4a6506d61f7a139de08ea74b0ae786d8c23'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3es006_000.markers.yaml, hash: 'sha256:6509426bce0d87c8f7182262b01398a9d69ec6831614f90dd6ad0ddba6db1a22'}
+  - {seq: 0, role: markers, filename: assets/KR3es006_000.markers.yaml, hash: 'sha256:c4657a2007dcb57b65c5b316c1e6252164ceb01405869b2564b770fec68d2dbd'}
   - {seq: 1, role: markers, filename: assets/KR3es006_001.markers.yaml, hash: 'sha256:bb53836b7d5d9550e48db06ff9aa499a0b3e06a22570baed3df1236a43e198e5'}
   - {seq: 2, role: markers, filename: assets/KR3es006_002.markers.yaml, hash: 'sha256:80fc18e1e19ac66891fae40d0b7e487b87e3baa82f0f0bad38e26dd2c5058710'}
-  - {seq: 3, role: markers, filename: assets/KR3es006_003.markers.yaml, hash: 'sha256:304792121750123f6bf2fb42799ada0393e8c81c96451fe10f1ffd10fda62ade'}
+  - {seq: 3, role: markers, filename: assets/KR3es006_003.markers.yaml, hash: 'sha256:3e596a607ae28fd192bb53b15010aebda6fcb15532ed908631bbee5e64efc075'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1997,7 +1997,7 @@ table_of_contents:
   label: 淺田宗伯小傳
   type: section
   level: 1
-hash: sha256:625a49bcd0ebda0f7d457f2dd0d32fa56ba089b2d23d9a671f095e470043f1fc
+hash: sha256:98f74ef8bf128bbd79d86d8b3d57845ac4733b8d499a4b4187fe5b78de9bcdb1
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
